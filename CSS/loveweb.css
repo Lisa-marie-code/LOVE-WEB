@@ -1,0 +1,117 @@
+p{
+    text-align: center;
+    color: #000;
+    font-size: 25px;
+}
+a{
+    color:whitesmoke ;
+    font-family: 'Times New Roman', Times, serif;
+    margin: auto 10px;
+    text-decoration: none; 
+    font-size:12px;
+    text-transform: uppercase;
+
+}
+.box1{
+     height:400px;
+     background-image: url(../img/SummerLemonade_1600x1200.jpg);
+     background-size:cover;
+     opacity: 0.6;
+     background-attachment: fixed;
+}
+.box2{
+    text-align: center;
+    font-size:2px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding:8px;
+    background-color: darkorange;
+    height:300px;
+}
+.button{
+    border-radius: 20px;
+    padding:5px 5px ;
+}
+.pgc{position: relative;
+    left: 70%;
+}
+.admire{
+    position: relative;
+    left: 30%;
+    margin-top:80px;
+    width:  500px;
+}
+.padmire{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color:chartreuse
+}
+.box3{
+    background-color:whitesmoke;
+    height:300px;
+    text-align: center;
+}
+.box4{
+    background-color: darkseagreen;
+    height:300px;
+}
+.box5{
+    background-color: pink;
+    height: 200px;
+    clear: both;
+}
+.box6{
+    background-color:white;
+    height: 300px;
+}
+.kids{
+    color: ivory;
+    font-size: 18px;
+}
+.click{
+    color: maroon;
+    border-color: white;
+    border: 1px solid white;
+    border: radius 0px;
+}
+.ats{
+    text-align: center;
+    font-size: 30px;
+    color: orange;
+    padding-top: 50px;
+}
+.free{text-align: center;
+    font-size: 25px;
+    color: white ;
+    padding-top: 40px;
+}
+.hr{
+    margin: auto;
+    width:50px;
+}
+
+.box4>img{ width: 33.3%;
+    object-fit: cover;
+    float: left;
+}
+.download{
+    text-decoration: white;
+    text-align: center;
+    padding-top:2%;
+}
+.but1{
+    position: relative;
+    left: 45%;
+     text-align: center;
+     border: none;
+     border-radius:20px ;
+     padding-top: 10px 10px;
+     margin-top:5%
+
+}
+.icons{
+    display: inline-block;
+    padding: 10px;
+}
+i{
+    color: orange
+}
